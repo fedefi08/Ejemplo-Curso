@@ -10,6 +10,10 @@ namespace DesafioPOO1
     {
         static void Main(string[] args)
         {
+
+
+            //COMENTARIO NUEVO PARA GIT
+
             Telefono t = new Telefono("123123dsaa", "IPHONE");
 
             Console.WriteLine("Estado del telefono");
